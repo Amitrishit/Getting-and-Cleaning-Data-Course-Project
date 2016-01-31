@@ -7,12 +7,12 @@ output: html_document
 ## CodeBook.md
 
 ## mean_and_std.csv
--contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
+contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
 variables:
 
--id
--activity
--tBodyAcc.std...X
+- id
+- activity
+- tBodyAcc.std...X
 -tBodyAcc.std...Y
 -tBodyAcc.std...Z
 -tGravityAcc.std...X
